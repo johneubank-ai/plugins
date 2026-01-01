@@ -6,7 +6,10 @@
 			"mcp-remote",
 			"https://mcp.vercel.com",
 			"--header",
-			"Bearer ${VERCEL_ACCESS_TOKEN}"
-		]
+			"Authorization:${AUTH_HEADER}"
+		],
+		"env": {
+			"AUTH_HEADER": "Bearer ${VERCEL_ACCESS_TOKEN}"
+		}
 	}
 }

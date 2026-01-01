@@ -1,9 +1,12 @@
 {
 	"vercel": {
-		"type": "http",
-		"url": "https://mcp.vercel.com",
-		"headers": {
-			"Authorization": "Bearer ${VERCEL_ACCESS_TOKEN}"
-		}
+		"command": "npx",
+		"args": [
+			"--yes",
+			"mcp-remote",
+			"https://mcp.vercel.com",
+			"--header",
+			"Bearer ${VERCEL_ACCESS_TOKEN}"
+		]
 	}
 }

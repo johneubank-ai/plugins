@@ -1,0 +1,7 @@
+{
+	"name": "vercel",
+	"description": "Vercel deployment and hosting integration. Manage deployments, environment variables, domains, and monitor your frontend infrastructure.",
+	"author": {
+		"name": "Vercel"
+	}
+}

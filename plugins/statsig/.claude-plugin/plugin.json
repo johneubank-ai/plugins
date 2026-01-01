@@ -1,0 +1,7 @@
+{
+	"name": "statsig",
+	"description": "Statsig feature management integration. Manage feature flags, run A/B experiments, analyze metrics, and control feature rollouts. Make data-driven decisions with real-time experimentation insights.",
+	"author": {
+		"name": "Statsig"
+	}
+}

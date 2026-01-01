@@ -1,0 +1,7 @@
+{
+	"name": "neon",
+	"description": "Neon serverless Postgres integration. Manage databases, branches, and projects. Query data, create database branches for development, and scale your Postgres infrastructure seamlessly.",
+	"author": {
+		"name": "Neon"
+	}
+}

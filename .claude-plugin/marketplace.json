@@ -1,0 +1,125 @@
+{
+	"name": "johneubankai-plugins",
+	"owner": {
+		"name": "johneubank-ai"
+	},
+	"plugins": [
+		{
+			"name": "context7",
+			"source": "./plugins/context7",
+			"description": "Upstash Context7 MCP server for up-to-date documentation lookup. Pull version-specific documentation and code examples directly from source repositories into your LLM context.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Upstash"
+			}
+		},
+		{
+			"name": "dev3000",
+			"source": "./plugins/dev3000",
+			"description": "Dev3000 development tools integration.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Dev3000"
+			}
+		},
+		{
+			"name": "development",
+			"source": "./plugins/development",
+			"description": "Development tools and utilities.",
+			"version": "1.0.0",
+			"author": {
+				"name": "LuapBlue"
+			}
+		},
+		{
+			"name": "github",
+			"source": "./plugins/github",
+			"description": "Official GitHub MCP server for repository management. Create issues, manage pull requests, review code, search repositories, and interact with GitHub's full API directly from Claude Code.",
+			"version": "1.0.0",
+			"author": {
+				"name": "GitHub"
+			}
+		},
+		{
+			"name": "linear",
+			"source": "./plugins/linear",
+			"description": "Linear issue tracking integration. Create issues, manage projects, update statuses, search across workspaces, and streamline your software development workflow with Linear's modern issue tracker.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Linear"
+			}
+		},
+		{
+			"name": "neon",
+			"source": "./plugins/neon",
+			"description": "Neon serverless Postgres integration. Manage databases, branches, and projects. Query data, create database branches for development, and scale your Postgres infrastructure seamlessly.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Neon"
+			}
+		},
+		{
+			"name": "playwright",
+			"source": "./plugins/playwright",
+			"description": "Browser automation and end-to-end testing MCP server by Microsoft. Enables Claude to interact with web pages, take screenshots, fill forms, click elements, and perform automated browser testing workflows.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Microsoft"
+			}
+		},
+		{
+			"name": "sentry",
+			"source": "./plugins/sentry",
+			"description": "Sentry error monitoring integration. Track errors, investigate issues, analyze stack traces, and monitor application performance. Debug production issues faster with real-time error insights and context.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Sentry"
+			}
+		},
+		{
+			"name": "slack",
+			"source": "./plugins/slack",
+			"description": "Slack workspace integration. Search messages, access channels, read threads, and stay connected with your team's communications while coding. Find relevant discussions and context quickly.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Slack"
+			}
+		},
+		{
+			"name": "statsig",
+			"source": "./plugins/statsig",
+			"description": "Statsig feature management integration. Manage feature flags, run A/B experiments, analyze metrics, and control feature rollouts. Make data-driven decisions with real-time experimentation insights.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Statsig"
+			}
+		},
+		{
+			"name": "storybook",
+			"source": "./plugins/storybook",
+			"description": "Storybook local development integration. Search your storybook for relevant components and reference documentation.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Storybook"
+			}
+		},
+		{
+			"name": "stripe",
+			"source": "./plugins/stripe",
+			"description": "Stripe development plugin for Claude. Build payment integrations, manage webhooks, and interact with the Stripe API.",
+			"version": "0.1.0",
+			"author": {
+				"name": "Stripe"
+			}
+		},
+		{
+			"name": "vercel",
+			"source": "./plugins/vercel",
+			"description": "Vercel deployment and hosting integration. Manage deployments, environment variables, domains, and monitor your frontend infrastructure.",
+			"version": "1.0.0",
+			"author": {
+				"name": "Vercel"
+			}
+		}
+	]
+}

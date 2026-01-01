@@ -1,0 +1,6 @@
+{
+	"storybook": {
+		"url": "http://localhost:6006/mcp",
+		"type": "http"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "sentry",
+	"description": "Sentry error monitoring integration. Track errors, investigate issues, analyze stack traces, and monitor application performance. Debug production issues faster with real-time error insights and context.",
+	"author": {
+		"name": "Sentry"
+	}
+}

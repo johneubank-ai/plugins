@@ -1,0 +1,7 @@
+{
+	"name": "storybook",
+	"description": "Storybook local development integration. Search your storybook for relevant components and reference documentation.",
+	"author": {
+		"name": "Storybook"
+	}
+}

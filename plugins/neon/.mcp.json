@@ -1,0 +1,7 @@
+{
+	"type": "http",
+	"url": "https://mcp.neon.tech/mcp",
+	"headers": {
+		"Authorization": "Bearer ${napi_w6wtk0mvmayzq7f4g8x6irnm55i2lazjcp53pu4ntltz8d09xqmpa00qjii99tn4}"
+	}
+}

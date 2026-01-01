@@ -1,0 +1,9 @@
+{
+    "name": "development",
+    "version": "1.0.0",
+    "author": {
+        "name": "LuapBlue",
+        "url": "https://github.com/LuapBlue"
+    },
+    "repository": "https://github.com/LuapBlue/plugins"
+}
